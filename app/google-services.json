@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97798013216",
+    "project_id": "anongeolocation",
+    "storage_bucket": "anongeolocation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97798013216:android:d9b4c9a61d81aa78731745",
+        "android_client_info": {
+          "package_name": "com.example.anon_geo_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97798013216-nt7ie59nqr77lf8ipkqsjfapvjqug8ig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWbm4jthj4kSwZ7Wm09ZRk1lYfq1-hbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97798013216-nt7ie59nqr77lf8ipkqsjfapvjqug8ig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
